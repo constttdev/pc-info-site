@@ -30,7 +30,7 @@
 		},
 		{
 			label: 'Mouse',
-			value: 'Bloody A70'
+			value: 'Logitech Super Light PRO (White)'
 		},
 		{
 			label: 'Keyboard',
@@ -45,12 +45,16 @@
 			value: 'R27qe'
 		},
 		{
-			label: 'Monitor 3x',
+			label: 'Monitor 3x - Currently Broken',
 			value: 'R27qe'
+		},
+		{
+			label: "Laptop",
+			value: "HP OmniBook 6 15"
 		}
 	];
 
-	const lastEdited = '1/2/2026';
+	const lastEdited = '7/25/2026';
 </script>
 
 <main class="flex min-h-screen items-center justify-center bg-zinc-950 px-4 text-zinc-100">
